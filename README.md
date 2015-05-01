@@ -16,7 +16,9 @@
 固件的设置方法就是到 
 
 http://www.repetier.com/firmware/v092/index.html 
+
 （不明白，度娘 打印虎repetier固件配置）
+
 配置你的3D打印机，然后下载Configuration.h 到我的固件底下替换文件就是了。 
 
 
